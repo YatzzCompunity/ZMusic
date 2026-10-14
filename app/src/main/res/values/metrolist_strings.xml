@@ -850,8 +850,13 @@
 
     <!-- Credits / About Screen -->
     <string name="credits_lead_developer">Lead developer</string>
+    <string name="credits_project_maintainer">ZMusic maintainer</string>
+    <string name="credits_upstream_lead_developer">Original upstream lead developer</string>
     <string name="credits_collaborator">Collaborator</string>
     <string name="credits_collaborators_section">Collaborators</string>
+    <string name="credits_upstream_contributors">Upstream contributors</string>
+    <string name="credits_upstream_project">Original Metrolist project</string>
+    <string name="credits_github_profile">GitHub profile · @YatzzCompunity</string>
     <string name="credits_license_name">GNU General Public License v3.0</string>
     <string name="credits_license_desc">Free, open-source software. You may use, study, share, and improve it</string>
     <string name="credits_discord">Discord server</string>
@@ -859,7 +864,7 @@
     <string name="credits_view_repo">View repository</string>
     <string name="buy_mo_a_coffee">Buy me a coffee!</string>
     <string name="community_and_info">Community &amp; Info</string>
-    <string name="metrolist">METROLIST</string>
+    <string name="metrolist">ZMusic</string>
     <string name="wanna_play_favorite_song">Want to play their favorite song?</string>
     <string name="yeah">Yeah!</string>
     <string name="stands_with_palestine">This project stands with Palestine 🇵🇸</string>
